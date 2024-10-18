@@ -5,4 +5,4 @@ this is demo class of git and github.
  shradha khapra
 
  # Student
- delta student
+ mohd ashraf
